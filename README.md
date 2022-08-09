@@ -12,8 +12,8 @@
 ### 🛠 구현 기능
 
 
-<img width="463" alt="화면 기록" src="<img width="656" alt="스크린샷 2022-08-09 오전 9 47 16" src="https://user-images.githubusercontent.com/102999377/183538878-6a4a75a6-850a-4102-a038-2cdb05d8cf53.png">
-">
+<img width="656" alt="스크린샷 2022-08-09 오전 9 47 16" src="https://user-images.githubusercontent.com/102999377/183538878-6a4a75a6-850a-4102-a038-2cdb05d8cf53.png">
+
 
 - 사진과 가구에 관한 정보를 API를 통해서 호출
 - 가구 정보가 있는 곳에 돋보기 모양 버튼 표시
