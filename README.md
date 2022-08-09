@@ -12,7 +12,8 @@
 ### 🛠 구현 기능
 
 
-<img width="463" alt="화면 기록" src="">
+<img width="463" alt="화면 기록" src="<img width="656" alt="스크린샷 2022-08-09 오전 9 47 16" src="https://user-images.githubusercontent.com/102999377/183538878-6a4a75a6-850a-4102-a038-2cdb05d8cf53.png">
+">
 
 - 사진과 가구에 관한 정보를 API를 통해서 호출
 - 가구 정보가 있는 곳에 돋보기 모양 버튼 표시
@@ -21,9 +22,9 @@
 - 하단에 있는 상품목록들은 해당 가구가 선택되었으면 tool tip 출력 (이 때, 선택된 가구는 선택되었으면 표시)
 - 할인율이 존재하는 경우에는 상품목록 사진들 상단에 할인율 표시
 
+<br>
+
+
 ###  💻 기술 스택
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
-
-
-
